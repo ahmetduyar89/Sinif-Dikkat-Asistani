@@ -1,0 +1,8 @@
+{
+  "name": "Sınıf Dikkat Asistanı",
+  "description": "An AI-powered dashboard for teachers that analyzes real-time classroom metrics and provides instant, actionable pedagogical advice using Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
